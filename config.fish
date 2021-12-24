@@ -1,7 +1,6 @@
 if status is-interactive
     set -U fish_greeting ""
 
-
     # Aliases
     alias vim="nvim"
     alias g="git"
